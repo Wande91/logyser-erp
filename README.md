@@ -13,7 +13,9 @@ npm install
 ```
 
 ## Estructura de carpetas
-- src/: Código fuente principal
+- backend/: Código del servidor y API
+- backend/database/: Configuración y esquemas de base de datos
+- frontend/: Código de la interfaz de usuario
 - public/: Archivos públicos y estáticos
 - docs/: Documentación
 
